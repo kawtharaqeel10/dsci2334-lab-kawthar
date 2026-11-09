@@ -50,4 +50,3 @@ st.pyplot(fig2)
 # Data table
 st.subheader("First 20 matching students")
 st.dataframe(view.head(20))
-
